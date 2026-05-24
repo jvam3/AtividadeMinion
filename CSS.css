@@ -1,0 +1,52 @@
+body {
+    background-color: #212529;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Navbar */
+.navbar {
+    padding: 15px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+/* Carousel */
+.carousel-item {
+    height: 100vh;
+    background-color: #343a40;
+}
+
+.carousel-caption {
+    bottom: 40%;
+}
+
+.carousel-caption h5 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+/* Container principal */
+.container {
+    margin-top: 40px;
+    text-align: center;
+}
+
+/* Rodapé */
+footer {
+    background-color: #212529;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+footer small {
+    color: #adb5bd;
+}
+
+.carousel-img {
+    height: 100vh;
+    object-fit: cover;
+}
